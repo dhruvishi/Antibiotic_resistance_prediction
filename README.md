@@ -1,4 +1,4 @@
-# ARMD Antibiotic Resistance Prediction Pipeline
+# Antibiotic Resistance Prediction Pipeline
 
 This workspace includes:
 
