@@ -1,0 +1,11 @@
+pandas
+numpy
+matplotlib
+seaborn
+torch
+torchvision
+torchaudio
+scikit-learn
+catboost
+optuna
+flask
